@@ -55,3 +55,24 @@
 🎯 Dream Games: Persona 5, Zelda BOTW & TOTK, FF Versus XIII (yes, the cancelled dream)
 💀 Past Grind: Genshin Impact (quit the resin rat race)
 ```
+
+---
+
+## 🎧 Spotify "Now Playing" Widget
+
+To display your current Spotify track, we'll use the [Kittinan Spotify GitHub Profile Widget](https://github.com/kittinan/spotify-github-profile). Here's how to integrate it:
+
+1. **Connect Your Spotify Account**:
+
+   - Visit the [Spotify GitHub Profile Widget](https://github.com/kittinan/spotify-github-profile) repository.
+   - Follow the instructions to authorize your Spotify account.
+
+2. **Add the Widget to Your README**:
+
+   - Once set up, insert the following markdown into your `README.md`:
+
+     ```markdown
+     ### 🎧 Now Playing on Spotify
+
+     [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=CoffeePuma&cover_image=true&theme=default)](https://open.spotify.com/user/CoffeePuma)
+     ```
