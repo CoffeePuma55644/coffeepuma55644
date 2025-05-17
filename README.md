@@ -50,10 +50,9 @@
 ### 🎮 Gamer Vibes
 
 ```txt
-🔫 Smash Bros Main: Link
+🔫 Smash Bros Main: Mario, Cloud, Joker
 🧠 Playstyle: Strategic, calm... then explosive!
 🎯 Dream Games: Persona 5, Zelda BOTW & TOTK, FF Versus XIII (yes, the cancelled dream)
-💀 Past Grind: Genshin Impact (quit the resin rat race)
 ```
 
 ---
