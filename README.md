@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <h2>👾 Geek. 🎮 Gamer. 🧠 Always Learning. 🌍 RDC Represent.</h2>
+  <h2>👾 Geek. 🎮 Gamer. 🧠 Always Learning.</h2>
   <p>Student + Developer | Passionate about tech, video games & creative expression.</p>
 </div>
 
