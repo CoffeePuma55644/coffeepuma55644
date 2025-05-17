@@ -1,22 +1,57 @@
-<h1 align="center">Hi 👋, I'm CoffeePuma</h1>
-<h3 align="center">I'm still learning...but I'm already doing some things :)</h3>
+<!-- README.md -->
 
-- 🌱 I’m currently learning **Data Science and Full-Stack Development**
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=200&section=header&text=CoffeePuma%20🐾&fontSize=40&fontColor=FACC15&animation=fadeIn" />
+</div>
 
-- 👨‍💻 All of my projects are available at [this GitHub](this GitHub)
+<div align="center">
+  <h2>👾 Geek. 🎮 Gamer. 🧠 Always Learning. 🌍 RDC Represent.</h2>
+  <p>Student + Developer | Passionate about tech, video games & creative expression.</p>
+</div>
 
-- 💬 Ask me about **python and web development**
+---
 
-- 📫 How to reach me **coffeepuma55644@gmail.om**
+### 👨‍💻 About Me
 
-- 📄 Know about my experiences [Alive](Alive)
+- 💻 Frontend Dev: **React**, **Tailwind CSS**, **JavaScript**, **Vite**
+- 🕹️ Competitive **Smash Bros Ultimate** player — bring the 1v1 heat!
+- 🎧 Music fan: vibing hard to **Ashe 22** while coding
+- 🎮 Deeply into story-driven games like **Persona**, **Zelda**, and **Final Fantasy**
+- 🔧 Always experimenting with new ideas, especially around **network optimization in RDC**
 
-- ⚡ Fun fact **I think I love video games :)**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/cpuma55644" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cpuma55644" height="30" width="40" /></a>
-</p>
+### 🛠 Tech Stack & Tools
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CoffeePuma55644&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=CoffeePuma55644&theme=tokyonight&hide_border=true" width="47%" />
+</div>
+
+---
+
+### 🧩 Featured Project
+
+- 🚀 [My Premium Portfolio](https://github.com/CoffeePuma55644/mon-portfolio-premium) — Sleek, responsive & customizable portfolio made with React + Tailwind.
+
+---
+
+### 🎮 Gamer Vibes
+
+```txt
+🔫 Smash Bros Main: Link
+🧠 Playstyle: Strategic, calm... then explosive!
+🎯 Dream Games: Persona 5, Zelda BOTW & TOTK, FF Versus XIII (yes, the cancelled dream)
+💀 Past Grind: Genshin Impact (quit the resin rat race)
+```
