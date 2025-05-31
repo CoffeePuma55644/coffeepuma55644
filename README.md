@@ -17,7 +17,7 @@
 - 🕹️ Competitive **Smash Bros Ultimate** player — bring the 1v1 heat!
 - 🎧 Music fan: vibing hard to **Lofi Girl** while coding
 - 🎮 Deeply into story-driven games like **Persona**, **Zelda**, and **Final Fantasy**
-- 🔧 Always experimenting with new ideas, especially around **network optimization in RDC**
+- 🔧 Always experimenting with new ideas, especially around **network optimization** 
 
 ---
 
