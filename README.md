@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-- 💻 Frontend Dev: **React**, **Tailwind CSS**, **JavaScript**, **Vite**
+- 💻 Frontend Dev: **React**, **Tailwind CSS**, **JavaScript**, **Vite**, **PostgreSQL**
 - 🕹️ Competitive **Smash Bros Ultimate** player — bring the 1v1 heat!
 - 🎧 Music fan: vibing hard to **Lofi Girl** while coding
 - 🎮 Deeply into story-driven games like **Persona**, **Zelda**, and **Final Fantasy**
