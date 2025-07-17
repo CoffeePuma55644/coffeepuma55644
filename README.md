@@ -18,6 +18,7 @@
 - 🎧 Music fan: vibing hard to **Lofi Girl** while coding
 - 🎮 Deeply into story-driven games like **Persona**, **Zelda**, and **Final Fantasy**
 - 🔧 Always experimenting with new ideas, especially around **network optimization** 
+- ⏳️ Working on a project...
 
 ---
 
