@@ -1,12 +1,12 @@
 <!-- README.md -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=200&section=header&text=CoffeePuma%20🐾&fontSize=40&fontColor=FACC15&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=200&section=header&text=CoffeePuma55644%20🐾&fontSize=40&fontColor=FACC15&animation=fadeIn" />
 </div>
 
 <div align="center">
-  <h2>👾 Geek. 🎮 Gamer. 🧠 Always Learning.</h2>
-  <p>Student + Developer | Passionate about tech, video games & creative expression.</p>
+  <h2>👾 Geek. 🧠 Always Learning.</h2>
+  <p>Student + Developer</p>
 </div>
 
 ---
@@ -14,9 +14,6 @@
 ### 👨‍💻 About Me
 
 - 💻 Frontend Dev: **React**, **Tailwind CSS**, **JavaScript**, **Vite**, **PostgreSQL**
-- 🕹️ Competitive **Smash Bros Ultimate** player — bring the 1v1 heat!
-- 🎧 Music fan: vibing hard to **Lofi Girl** while coding
-- 🎮 Deeply into story-driven games like **Persona**, **Zelda**, and **Final Fantasy**
 - 🔧 Always experimenting with new ideas, especially around **network optimization** 
 - ⏳️ Working on a project...
 
@@ -42,16 +39,4 @@
 
 ---
 
-### 🧩 Featured Project
-
-- 🚀 [My Premium Portfolio](https://github.com/CoffeePuma55644/mon-portfolio-premium) — Sleek, responsive & customizable portfolio made with React + Tailwind.
-
----
-
-### 🎮 Gamer Vibes
-
-```txt
-🔫 Smash Bros Main: Mario, Cloud, Joker
-🧠 Playstyle: Strategic, calm... then explosive!
-🎯 Dream Games: Persona 5, Zelda BOTW & TOTK, FF Versus XIII (yes, the cancelled dream)
-```
+<!-- ### 🧩 Featured Project -->
